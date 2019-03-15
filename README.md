@@ -9,3 +9,16 @@
  
 ## Getting Started
 
+1- Clone:
+`git clone https://github.com/MoElaSec/Ghidra-Installer.git`
+
+2- Install:
+```
+cd Ghidra-Installer
+chmod +x giveMeGhdra.sh
+sed -i -e 's/\r$//' giveMeGhidra.sh
+./giveMeGhidra.sh
+```
+
+3- Run:
+just type `ghidra`  in the terminal
