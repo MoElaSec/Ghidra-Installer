@@ -7,7 +7,7 @@
 #   --------------------------------
 
 
-Path=Documents #write the path where the Ghidra file is located (leave empty if it's in the root)
+Path= #write the path where the Ghidra file is located (leave empty if it's in the root)
 Ver=ghidra_9.0 #the Ghidra ver (open the Ghidra folder -> you will find only one folder copy that folder name here)
 
 Red=`tput setaf 1`
@@ -52,7 +52,7 @@ echo "${Bold}${Green}-----------------------------${NC}Modifying .bashrc(adding 
 echo "#################################################################################"
 cd
 echo "#An Alias just to run the Ghidra tool" >> .bashrc
-echo "alias gTool='sh $Path/Ghidra/$Ver/ghidraRun .'" >> .bashrc
+echo "alias gTool='sh /Ghidra/$Ver/ghidraRun .'" >> .bashrc
 echo "" >> .bashrc
 echo "#Always take me to root then Execute gTool so I can run the tool from Anywhere" >> .bashrc
 echo "alias ghidra='cd /root && gTool'" >> .bashrc
