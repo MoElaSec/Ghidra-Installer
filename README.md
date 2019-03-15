@@ -25,3 +25,12 @@ just type `ghidra`  in the terminal
 
 
 ![Capture](https://user-images.githubusercontent.com/48570596/54400912-9a7bcf00-46de-11e9-986e-8b0763a45934.PNG)
+
+
+## Author 
+- Mo Ela (Aka: ShifraSec)
+Hit me up on Twitter [@ShifraSec](https://twitter.com/ShifraSec)
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/MoElaSec/Ghidra-Installer/blob/master/LICENSE) file for details.
+ 
