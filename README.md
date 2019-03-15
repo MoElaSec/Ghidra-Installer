@@ -22,3 +22,6 @@ sed -i -e 's/\r$//' giveMeGhidra.sh
 
 3- Run:
 just type `ghidra`  in the terminal
+
+
+![Capture](https://user-images.githubusercontent.com/48570596/54400912-9a7bcf00-46de-11e9-986e-8b0763a45934.PNG)
